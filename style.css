@@ -1,0 +1,23 @@
+@import url("reset.css");
+@import url("styles.css/header.css");
+@import url("styles.css/banner.css");
+@import url("styles.css/destaques.css");
+@import url("styles.css/rodape.css");
+@import url("styles.css/medias.css");
+
+:root {
+  --white: #f9f9f9;
+  --gray: #474747;
+  --white-200: #ebe9ea;
+  --black-light: #181818;
+
+  --font-principal: "Montserrat", sans-serif;
+
+  font-size: 62.5%; /* 1rem = 10px  */
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: var(--font-principal);
+}

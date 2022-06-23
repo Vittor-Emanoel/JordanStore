@@ -1,0 +1,22 @@
+.rodape {
+  background-color: var(--black-light);
+  color: var(--white);
+  padding: 1em;
+  text-align: center;
+}
+.rodape-texto {
+  font-weight: 500;
+}
+
+#backToTopButton {
+  position: fixed;
+  bottom: 1rem;
+  right: 0.2rem;
+
+  opacity: 0;
+  visibility: hidden;
+}
+#backToTopButton.show {
+  opacity: 1;
+  visibility: visible;
+}

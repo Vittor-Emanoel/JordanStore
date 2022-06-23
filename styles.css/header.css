@@ -1,0 +1,22 @@
+#desconto {
+    background-color: var(--black-light);
+    color: var(--white);
+    padding: 1em;
+    text-align: center;
+ 
+}
+.desconto-texto {
+    font-weight: 500;
+}
+
+.cabecalho {
+     padding: 1em;
+     text-align: center;
+   
+
+}
+.cabecalho-titulo{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}

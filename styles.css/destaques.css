@@ -1,0 +1,26 @@
+.destaques{
+    text-align: center;
+    padding: 1.5em 1em;
+}
+.destaques-titulo{
+    font-weight: 600;
+    font-size: 2.8rem;
+    padding: 1em;
+}
+.destaques-texto {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color:var(--gray);
+    margin-bottom: 2.5em;
+}
+.destaques-tenis {
+    width: 100%;
+}
+
+.card {
+    padding: 2em 0.2em;
+    background-color: #EBE9EA;
+    cursor: pointer;
+    
+}
+
