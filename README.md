@@ -24,7 +24,12 @@ Me desafiei usando a biblioteca ScrollReveal.
 
 ##
 
-* Link do Projeto:
+Imagem do Projeto:
+
+![JordanStoreee](https://user-images.githubusercontent.com/55211291/176569407-2e42ae7d-b6eb-4db8-acc2-e54e0a3f4f1b.PNG)
+
+
+* Veja mais de perto:
 
 https://vittor-emanoel.github.io/JordanStore/
 
