@@ -24,7 +24,7 @@ Me desafiei usando a biblioteca ScrollReveal.
 
 ##
 
-Imagem do Projeto:
+Resultado do Projeto:
 
 ![JordanStoreee](https://user-images.githubusercontent.com/55211291/176569407-2e42ae7d-b6eb-4db8-acc2-e54e0a3f4f1b.PNG)
 
